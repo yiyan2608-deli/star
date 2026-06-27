@@ -1,0 +1,64 @@
+Uri: https://static.cloudflareinsights.com/beacon.min.js/v833ccba57c9e4d2798f2e76cebdd09a11778172276447
+File Name: C:\Downloaded Web Sites\www.starweavinggame.com\beacon.min.js\v833ccba57c9e4d2798f2e76cebdd09a11778172276447
+Content Type: text/javascript
+
+Uri: https://www.starweavinggame.com/
+File Name: C:\Downloaded Web Sites\www.starweavinggame.com\index.htm
+Content Type: text/html
+
+Uri: https://www.starweavinggame.com/assets/app1.webp
+File Name: C:\Downloaded Web Sites\www.starweavinggame.com\assets\app1.webp
+Content Type: image/webp
+
+Uri: https://www.starweavinggame.com/assets/app2.webp
+File Name: C:\Downloaded Web Sites\www.starweavinggame.com\assets\app2.webp
+Content Type: image/webp
+
+Uri: https://www.starweavinggame.com/assets/app3.webp
+File Name: C:\Downloaded Web Sites\www.starweavinggame.com\assets\app3.webp
+Content Type: image/webp
+
+Uri: https://www.starweavinggame.com/assets/AuthorizationAgreement.docx
+File Name: C:\Downloaded Web Sites\www.starweavinggame.com\assets\AuthorizationAgreement.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://www.starweavinggame.com/assets/logo.webp
+File Name: C:\Downloaded Web Sites\www.starweavinggame.com\assets\logo.webp
+Content Type: image/webp
+
+Uri: https://www.starweavinggame.com/contact.html
+File Name: C:\Downloaded Web Sites\www.starweavinggame.com\contact.html
+Content Type: text/html
+
+Uri: https://www.starweavinggame.com/index.html
+File Name: C:\Downloaded Web Sites\www.starweavinggame.com\index.html
+Content Type: text/html
+
+Uri: https://www.starweavinggame.com/privacy.html
+File Name: C:\Downloaded Web Sites\www.starweavinggame.com\privacy.html
+Content Type: text/html
+
+Uri: https://www.starweavinggame.com/privacy/index.html
+File Name: C:\Downloaded Web Sites\www.starweavinggame.com\privacy\index.html
+Content Type: text/html
+
+Uri: https://www.starweavinggame.com/refund.html
+File Name: C:\Downloaded Web Sites\www.starweavinggame.com\refund.html
+Content Type: text/html
+
+Uri: https://www.starweavinggame.com/refund/index.html
+File Name: C:\Downloaded Web Sites\www.starweavinggame.com\refund\index.html
+Content Type: text/html
+
+Uri: https://www.starweavinggame.com/style.css
+File Name: C:\Downloaded Web Sites\www.starweavinggame.com\style.css
+Content Type: text/css
+
+Uri: https://www.starweavinggame.com/terms.html
+File Name: C:\Downloaded Web Sites\www.starweavinggame.com\terms.html
+Content Type: text/html
+
+Uri: https://www.starweavinggame.com/terms/index.html
+File Name: C:\Downloaded Web Sites\www.starweavinggame.com\terms\index.html
+Content Type: text/html
+
